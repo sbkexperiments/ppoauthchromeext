@@ -10,3 +10,5 @@ browserify background.js -o background.bundle.js
 
 After oauth flow the user info from PayPal is logged in the console of background page of the extension.
 
+Demo:
+![alt tag](https://github.com/sbkexperiments/ppoauthchromeext/blob/master/demo.png)
