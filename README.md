@@ -7,5 +7,5 @@ It uses browserify to generate background.bundle.js file used in manifest.json. 
 npm install request
 browserify background.js -o background.bundle.js
 
-After ouath flow the user info from PayPal is logged in the console of background page of the extension.
+After oauth flow the user info from PayPal is logged in the console of background page of the extension.
 
